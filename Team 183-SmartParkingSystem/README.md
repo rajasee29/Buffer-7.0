@@ -32,7 +32,8 @@ The project has two implementations:
 
 ## Live Demo
 
-> To run locally, follow the [Getting Started](#getting-started) section below.
+Video Link: https://drive.google.com/file/d/15H53i1Ivrg60YZ9CJHNgLN1hggIKgSAU/view?usp=drivesdk
+PPT: https://docs.google.com/presentation/d/1uZ6JhnlenV98laIjlREvM57sgYoOJiAz/edit?pli=1&slide=id.p2#slide=id.p2
 
 ---
 
@@ -242,8 +243,7 @@ MH 12 AB 1234
 |-------|-----------|
 | Frontend UI | React 18 |
 | Styling | Inline CSS with CSS-in-JS variables |
-| DSA Logic (Frontend) | Vanilla JavaScript |
-| DSA Logic (Original) | Java 17 |
+| DSA Logic | Java 17 |
 | State Management | React `useState` |
 | Build Tool | Create React App |
 
@@ -264,16 +264,14 @@ MH 12 AB 1234
 ---
 
 ## Team
+Team Name: AlgoArchitect
+Team Participants: 
+Aakanksha Kulkarni
+Rajasee Thakur
+Ekta Kundnani
+Shravani Raut
 
-| Name | Role |
-|------|------|
-| [Your Name] | DSA Logic + Java Implementation |
-| [Teammate Name] | React Frontend |
-
-> Built for DSA Hackathon — [Your College/Event Name] · [Year]
 
 ---
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
